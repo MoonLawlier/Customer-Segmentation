@@ -15,14 +15,10 @@ A clustering project that groups customers based on behavior using K-Means algor
 * Seaborn
   
 
-## ▶️ How to Run
-
-Open the notebook and run all cells
-
 ## 📊 Concepts Used
 
 * Clustering
-* Unsupervised Learning
+* Unsupervised Learning - K-means Clustering
 <p align="center">
   <a href="http://localhost:8501/">
     <img src="https://img.shields.io/badge/DEMO-View%20Live-blue?style=for-the-badge">
