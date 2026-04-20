@@ -8,8 +8,12 @@ A clustering project that groups customers based on behavior using K-Means algor
 ## 🛠️ Tech Stack
 
 * Python
+* Numpy
 * Pandas
 * Scikit-learn
+* Matplotlib
+* Seaborn
+  
 
 ## ▶️ How to Run
 
