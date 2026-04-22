@@ -19,8 +19,4 @@ A clustering project that groups customers based on behavior using K-Means algor
 
 * Clustering
 * Unsupervised Learning - K-means Clustering
-<p align="center">
-  <a href="http://localhost:8501/">
-    <img src="https://img.shields.io/badge/DEMO-View%20Live-blue?style=for-the-badge">
-  </a>
-</p>
+
